@@ -1,0 +1,40 @@
+
+
+CodeBlocks:
+https://www.codeblocks.org/downloads/binaries/
+Install - codeblocks-20.03mingw-setup.exe   (need mingw)
+
+GDB:
+https://www.onlinegdb.com/
+
+Github:
+https://github.com/Team1507/CppClass2023
+
+
+Assignment#1
+-----------------
+
+1) Decide on compiler:
+    CodeBlocks (Requires Install)
+    GDB (Online)
+
+2) Write Hello World Program
+    - Output “Hello World!”     (cout)
+    - Ask for your name         (cin)
+    - Output “Hello <name>”     (cout)
+    Note:  Code should be properly indented and with comments
+
+
+
+CodeBlocks New Project:
+- Create a new project
+- Console Application
+- C++
+- Input Project title and folder path, then next
+- Compiler should be GNU GCC Compiler, and finish
+
+CodeBlocks  Run:
+  press Icon with yellow gear and green arrow (Build and run)
+  
+
+
