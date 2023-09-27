@@ -1,0 +1,13 @@
+Assignment #2 - Variables and Conditionals
+
+* Ask for 2 integers, add them together and output answer
+* Multiply 2 float constants together and output answer
+* Ask for another integer
+   - Output if it is even or odd (hint: use modulus ‘%’ operation)
+   - Output if it is greater than, less than, or equal to zero
+   - Output “True” if value is greater than 10 and even, else “False”
+   - Multiply by the number of seconds in a minute and output answer
+
+Remember:
+- Comments
+- Indents
